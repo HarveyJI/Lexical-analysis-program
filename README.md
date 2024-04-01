@@ -82,3 +82,16 @@ c)	操作符判断
 2)	遍历单词序列集合，依次判断单词序列二元式的种类是否为空，若为空则证明是关键字直接写入“（关键字）”，若不为空则证明是其他符号，直接写入“（种类，属性值）”。写入一组换个行。
 3)	单词序列集合遍历完，关闭流。
 
+
+![image](https://github.com/HarveyJI/Lexical-analysis-program/assets/78439035/047f7783-8af2-40cf-8bf3-b3382310aaf5)
+
+![image](https://github.com/HarveyJI/Lexical-analysis-program/assets/78439035/94eb3017-73ff-4391-9fce-726033d5fd59)
+
+![image](https://github.com/HarveyJI/Lexical-analysis-program/assets/78439035/ef9a9a0c-ea89-4548-92f1-8cb227fe8d26)
+
+![image](https://github.com/HarveyJI/Lexical-analysis-program/assets/78439035/3b32b2b5-ea09-48c8-8783-665b201d2be4)
+
+
+
+
+
